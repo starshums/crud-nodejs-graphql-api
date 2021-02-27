@@ -1,0 +1,31 @@
+{
+  "name": "nodejs-graphql-test",
+  "version": "1.0.0",
+  "description": "nodejs-graphql-test",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starshums/nodejs-graphql-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/starshums/nodejs-graphql-test/issues"
+  },
+  "homepage": "https://github.com/starshums/nodejs-graphql-test#readme",
+  "dependencies": {
+    "apollo-server": "^2.19.0",
+    "bcrypt": "^5.0.0",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^8.2.0",
+    "graphql": "^15.4.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.13",
+    "nodemon": "^2.0.6",
+    "validator": "^13.1.17"
+  }
+}
